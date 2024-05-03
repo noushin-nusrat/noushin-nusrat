@@ -1,13 +1,9 @@
+<img src="https://raw.githubusercontent.com/noushin-nusrat/noushin-nusrat/main/cover-image.gif">
 <!-- Title -->
 <h1 align="center">👋 Hi there! I'm Noushin Nusrat</h1>
 
 <!-- Introduction -->
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer from Mymensingh , Bangladesh. Currently diving deep into the MERN stack while exploring other fascinating technologies and frameworks.</h3>
-
-<!-- Image -->
-<p align="center">
-  <img width="400" src="https://cdn.vectorstock.com/i/500p/99/21/girl-asian-gamer-or-streamer-with-a-headset-vector-46299921.jpg">
-</p>
 
 <!-- Profile Views -->
 <p align="center">
