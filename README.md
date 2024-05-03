@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi there! I'm Noushin Nusrat</h1>
 
 <!-- Introduction -->
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer from Bangladesh, Mymensingh. Currently diving deep into the MERN stack while exploring other fascinating technologies and frameworks.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer from Mymensingh , Bangladesh. Currently diving deep into the MERN stack while exploring other fascinating technologies and frameworks.</h3>
 
 <!-- Image -->
 <p align="center">
