@@ -35,8 +35,7 @@
 - ⚡ Fun fact: **I love to make complex origami and I can speak 3 languages**.
 
 <!-- Languages and Tools Section -->
-## Languages and Tools
-<!-- Languages and Tools Section -->
+
 ## Languages and Tools
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
