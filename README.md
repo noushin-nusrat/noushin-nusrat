@@ -38,20 +38,20 @@
 
 ## Languages and Tools
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
 </p>
 
 
