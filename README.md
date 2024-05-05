@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/noushin-nusrat/noushin-nusrat/main/cover-image.gif">
 <!-- Title -->
 <h1 align="center">👋 Hi there! I'm Noushin Nusrat</h1>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Front-End Web Developer;UX Designer/Developer;" alt="Typing SVG" /></h2>
+
 
 <!-- Introduction -->
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer from Mymensingh , Bangladesh. Currently diving deep into the MERN stack while exploring other fascinating technologies and frameworks.</h3>
